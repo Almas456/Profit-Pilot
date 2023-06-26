@@ -1,0 +1,458 @@
+.transaction-tracker-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-lightcyan);
+  width: 1280px;
+  height: 127px;
+  mix-blend-mode: multiply;
+}
+.image-5-icon {
+  position: absolute;
+  top: 18px;
+  left: 30px;
+  width: 96px;
+  height: 91px;
+  object-fit: cover;
+  mix-blend-mode: multiply;
+}
+.transaction-tracker1 {
+  position: absolute;
+  top: 44px;
+  left: 159px;
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+  width: 588px;
+  height: 83px;
+}
+.image-75 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 11px;
+  left: 1121px;
+  width: 120px;
+  height: 98px;
+  background-image: url(./public/image69@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  mix-blend-mode: multiply;
+}
+.all,
+.month {
+  margin: 0;
+}
+.all {
+  color: var(--color-deepskyblue-200);
+}
+.month-all-txt-container {
+  line-break: anywhere;
+  width: 100%;
+}
+.month-all,
+.year-2-selected-container {
+  position: absolute;
+  top: 229px;
+  left: 83px;
+  font-size: var(--font-size-13xl);
+  letter-spacing: -0.02em;
+  display: flex;
+  align-items: center;
+  width: 159px;
+  height: 89px;
+}
+.year-2-selected-container {
+  left: 411px;
+  width: 172px;
+}
+.transaction-tracker-item {
+  position: absolute;
+  top: 227.49px;
+  left: 310.5px;
+  border-right: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1px;
+  height: 82px;
+}
+.mon29-mar-2016 {
+  position: absolute;
+  top: 465px;
+  left: 46px;
+  font-size: var(--font-size-13xl);
+  letter-spacing: -0.02em;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 340px;
+  height: 63px;
+}
+.transaction-tracker-inner {
+  position: absolute;
+  top: 496.49px;
+  left: 450.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 701px;
+  height: 1px;
+}
+.transaction-tracker-child1 {
+  position: absolute;
+  top: 237px;
+  left: 1067px;
+  background-color: var(--color-lightskyblue-100);
+  width: 84px;
+  height: 81px;
+  mix-blend-mode: multiply;
+}
+.image-80-icon {
+  position: absolute;
+  top: 242px;
+  left: 1072px;
+  width: 73px;
+  height: 70px;
+  object-fit: cover;
+  mix-blend-mode: multiply;
+}
+.pay-tm-net {
+  position: absolute;
+  top: 566px;
+  left: 57px;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 292px;
+  height: 30px;
+}
+.div31 {
+  top: 631px;
+  left: 52px;
+  width: 356px;
+  height: 23px;
+}
+.b,
+.div31,
+.div32 {
+  position: absolute;
+  letter-spacing: -0.02em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.b {
+  top: 556px;
+  left: 962px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-deepskyblue-300);
+  width: 257px;
+  height: 51px;
+}
+.div32 {
+  top: 631px;
+  left: 983px;
+  font-size: var(--font-size-5xl);
+  width: 236px;
+  height: 34px;
+}
+.transaction-tracker-child2 {
+  position: absolute;
+  top: 719px;
+  left: 83.49px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1098px;
+  height: 1px;
+}
+.pay-housing-loan {
+  position: absolute;
+  top: 784px;
+  left: 53px;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 292px;
+  height: 30px;
+}
+.div33 {
+  top: 849px;
+  left: 48px;
+  width: 356px;
+  height: 23px;
+}
+.b1,
+.div33,
+.div34 {
+  position: absolute;
+  letter-spacing: -0.02em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.b1 {
+  top: 774px;
+  left: 958px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-deepskyblue-300);
+  width: 257px;
+  height: 51px;
+}
+.div34 {
+  top: 849px;
+  left: 979px;
+  font-size: var(--font-size-5xl);
+  width: 236px;
+  height: 34px;
+}
+.transaction-tracker-child3 {
+  position: absolute;
+  top: 937px;
+  left: 79.49px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1098px;
+  height: 1px;
+}
+.pay-phone-bill {
+  position: absolute;
+  top: 982px;
+  left: 53px;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 292px;
+  height: 30px;
+}
+.div35 {
+  top: 1047px;
+  left: 48px;
+  width: 356px;
+  height: 23px;
+}
+.b2,
+.div35,
+.div36 {
+  position: absolute;
+  letter-spacing: -0.02em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.b2 {
+  top: 972px;
+  left: 958px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-deepskyblue-300);
+  width: 257px;
+  height: 51px;
+}
+.div36 {
+  top: 1047px;
+  left: 979px;
+  font-size: var(--font-size-5xl);
+  width: 236px;
+  height: 34px;
+}
+.transaction-tracker-child4 {
+  position: absolute;
+  top: 1135px;
+  left: 79.49px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1098px;
+  height: 1px;
+}
+.fri01-feb-2016 {
+  position: absolute;
+  top: 1255px;
+  left: 78px;
+  font-size: var(--font-size-13xl);
+  letter-spacing: -0.02em;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 340px;
+  height: 63px;
+}
+.transaction-tracker-child5 {
+  position: absolute;
+  top: 1286.49px;
+  left: 482.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 701px;
+  height: 1px;
+}
+.master-card {
+  position: absolute;
+  top: 1356px;
+  left: 89px;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 292px;
+  height: 30px;
+}
+.div37 {
+  top: 1421px;
+  left: 84px;
+  width: 356px;
+  height: 23px;
+}
+.b3,
+.div37,
+.div38 {
+  position: absolute;
+  letter-spacing: -0.02em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.b3 {
+  top: 1346px;
+  left: 994px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-deepskyblue-300);
+  width: 257px;
+  height: 51px;
+}
+.div38 {
+  top: 1421px;
+  left: 1015px;
+  font-size: var(--font-size-5xl);
+  width: 236px;
+  height: 34px;
+}
+.transaction-tracker-child6 {
+  position: absolute;
+  top: 1509px;
+  left: 115.49px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1098px;
+  height: 1px;
+}
+.pay-car-loan {
+  position: absolute;
+  top: 1574px;
+  left: 85px;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 292px;
+  height: 30px;
+}
+.div39 {
+  top: 1639px;
+  left: 80px;
+  width: 356px;
+  height: 23px;
+}
+.b4,
+.div39,
+.div40 {
+  position: absolute;
+  letter-spacing: -0.02em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.b4 {
+  top: 1564px;
+  left: 990px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-deepskyblue-300);
+  width: 257px;
+  height: 51px;
+}
+.div40 {
+  top: 1639px;
+  left: 1011px;
+  font-size: var(--font-size-5xl);
+  width: 236px;
+  height: 34px;
+}
+.transaction-tracker-child7 {
+  position: absolute;
+  top: 1727px;
+  left: 111.49px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1098px;
+  height: 1px;
+}
+.thankful-insurance {
+  position: absolute;
+  top: 1772px;
+  left: 85px;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 292px;
+  height: 30px;
+}
+.div41 {
+  top: 1837px;
+  left: 80px;
+  width: 356px;
+  height: 23px;
+}
+.b5,
+.div41,
+.div42 {
+  position: absolute;
+  letter-spacing: -0.02em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.b5 {
+  top: 1762px;
+  left: 990px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-deepskyblue-300);
+  width: 257px;
+  height: 51px;
+}
+.div42 {
+  top: 1837px;
+  left: 1011px;
+  font-size: var(--font-size-5xl);
+  width: 236px;
+  height: 34px;
+}
+.transaction-tracker-child8 {
+  position: absolute;
+  top: 1925px;
+  left: 111.49px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1098px;
+  height: 1px;
+}
+.transaction-tracker {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2136px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

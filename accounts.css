@@ -1,0 +1,339 @@
+.business-accounts,
+.foreign-accounts,
+.personal-accounts,
+.upi-accounts {
+  position: absolute;
+  top: 212px;
+  left: 19px;
+  font-size: var(--font-size-13xl);
+  letter-spacing: -0.02em;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 422px;
+  height: 53px;
+}
+.business-accounts,
+.foreign-accounts,
+.upi-accounts {
+  top: 950px;
+  left: 27px;
+}
+.foreign-accounts,
+.upi-accounts {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 1830px;
+  left: 19px;
+  font-family: var(--font-poppins);
+  color: var(--color-black);
+  text-align: center;
+}
+.upi-accounts {
+  top: 1732px;
+}
+.image-30-icon {
+  position: absolute;
+  top: 215px;
+  left: 398px;
+  width: 47px;
+  height: 47px;
+  object-fit: cover;
+  mix-blend-mode: multiply;
+}
+.image-31 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 1738px;
+  background-image: url(./public/image-31@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.image-31,
+.image-32-icon,
+.image-33 {
+  position: absolute;
+  left: 425px;
+  width: 47px;
+  height: 47px;
+  mix-blend-mode: multiply;
+}
+.image-33 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 1836px;
+  background-image: url(./public/image-31@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.image-32-icon {
+  top: 956px;
+  object-fit: cover;
+}
+.accounts-child,
+.accounts-child1,
+.accounts-inner,
+.accounts-item {
+  position: absolute;
+  top: 374px;
+  left: 85px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-skyblue);
+  width: 405px;
+  height: 197px;
+}
+.accounts-child1,
+.accounts-inner,
+.accounts-item {
+  top: 1084px;
+  width: 397px;
+}
+.accounts-child1,
+.accounts-inner {
+  left: 693px;
+  background-color: var(--color-lightskyblue-100);
+  width: 427px;
+}
+.accounts-child1 {
+  top: 1415px;
+  left: 85px;
+  background-color: var(--color-lightblue);
+  width: 405px;
+}
+.accounts-child2,
+.accounts-child3 {
+  position: absolute;
+  left: 693px;
+  border-radius: var(--br-xl);
+}
+.accounts-child2 {
+  top: 1418px;
+  background-color: var(--color-mediumslateblue);
+  width: 405px;
+  height: 197px;
+}
+.accounts-child3 {
+  top: 374px;
+  background-color: rgba(98, 205, 255, 0.85);
+  width: 423px;
+  height: 194px;
+  opacity: 0.2;
+}
+.accounts-child4,
+.accounts-child5 {
+  position: absolute;
+  top: 680px;
+  left: 85px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-lightblue);
+  width: 397px;
+  height: 189px;
+}
+.accounts-child5 {
+  top: 664px;
+  left: 693px;
+  background-color: var(--color-mediumslateblue);
+  width: 427px;
+  height: 220px;
+}
+.accounts-child6 {
+  position: absolute;
+  top: -6px;
+  left: 0;
+  background-color: var(--color-lightcyan);
+  width: 1280px;
+  height: 127px;
+  mix-blend-mode: multiply;
+}
+.accounts2 {
+  position: absolute;
+  top: 29px;
+  left: 106px;
+  font-size: var(--font-size-17xl);
+  letter-spacing: -0.02em;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 422px;
+  height: 53px;
+}
+.image-38-icon {
+  position: absolute;
+  top: 374px;
+  left: 85px;
+  border-radius: var(--br-xl);
+  width: 153px;
+  height: 194px;
+  object-fit: cover;
+}
+.abc-bank- {
+  margin: 0;
+}
+.abc-bank-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.abc-bank-container,
+.trust-bank-container {
+  position: absolute;
+  top: 391px;
+  left: 173px;
+  letter-spacing: -0.02em;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 342px;
+  height: 147px;
+}
+.trust-bank-container {
+  top: 701px;
+  left: 178px;
+}
+.chanel-bank-container,
+.pay-bank-container,
+.pqr-bank-container,
+.rise-bank-container,
+.victor-bank-container,
+.zenn-bank-container {
+  position: absolute;
+  top: 1118px;
+  left: 189px;
+  letter-spacing: -0.02em;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 342px;
+  height: 147px;
+}
+.pay-bank-container,
+.pqr-bank-container,
+.rise-bank-container,
+.victor-bank-container,
+.zenn-bank-container {
+  top: 1452px;
+  left: 197px;
+}
+.pay-bank-container,
+.pqr-bank-container,
+.rise-bank-container,
+.victor-bank-container {
+  top: 382px;
+  left: 829px;
+}
+.pay-bank-container,
+.rise-bank-container,
+.victor-bank-container {
+  top: 701px;
+  left: 831px;
+}
+.pay-bank-container,
+.victor-bank-container {
+  top: 1119px;
+}
+.pay-bank-container {
+  top: 1465px;
+  left: 813px;
+}
+.image-39-icon,
+.image-40-icon {
+  position: absolute;
+  top: 374px;
+  left: 689px;
+  border-radius: var(--br-xl);
+  width: 203px;
+  height: 194px;
+  object-fit: cover;
+}
+.image-40-icon {
+  top: 680px;
+  left: 84px;
+  width: 154px;
+  height: 189px;
+}
+.image-41-icon,
+.image-42-icon,
+.image-43-icon,
+.image-44-icon,
+.image-45-icon {
+  position: absolute;
+  top: 664px;
+  left: 689px;
+  border-radius: var(--br-xl);
+  width: 203px;
+  height: 220px;
+  object-fit: cover;
+}
+.image-42-icon,
+.image-43-icon,
+.image-44-icon,
+.image-45-icon {
+  top: 1084px;
+  left: 85px;
+  width: 157px;
+  height: 197px;
+}
+.image-43-icon,
+.image-44-icon,
+.image-45-icon {
+  left: 689px;
+  width: 199px;
+  height: 199px;
+}
+.image-44-icon,
+.image-45-icon {
+  top: 1411px;
+  left: 84px;
+  width: 166px;
+  height: 204px;
+}
+.image-45-icon {
+  top: 1418px;
+  left: 693px;
+  width: 177px;
+  height: 197px;
+}
+.merchant-account-icon {
+  position: absolute;
+  top: 13px;
+  left: 33px;
+  width: 101px;
+  height: 89px;
+  object-fit: cover;
+}
+.image-69 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 4px;
+  left: 1160px;
+  width: 120px;
+  height: 98px;
+  background-image: url(./public/image69@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  mix-blend-mode: multiply;
+}
+.accounts1 {
+  position: relative;
+  background-color: #fefeff;
+  width: 100%;
+  height: 2136px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

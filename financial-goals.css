@@ -1,0 +1,317 @@
+.financial-goals-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-lightcyan);
+  width: 1280px;
+  height: 127px;
+  mix-blend-mode: multiply;
+}
+.group-of-projects {
+  position: absolute;
+  top: 18px;
+  left: 16px;
+  width: 95px;
+  height: 90px;
+  object-fit: cover;
+}
+.accounts,
+.amount,
+.date,
+.financial-goals1,
+.subsidiaries {
+  position: absolute;
+  letter-spacing: -0.02em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.financial-goals1 {
+  top: 21px;
+  left: 153px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  width: 323px;
+  height: 77px;
+}
+.accounts,
+.amount,
+.date,
+.subsidiaries {
+  top: 390px;
+  left: 16px;
+  width: 338px;
+  height: 67px;
+}
+.accounts,
+.date,
+.subsidiaries {
+  top: 685px;
+  left: 107px;
+  width: 250px;
+  height: 52px;
+}
+.accounts,
+.date {
+  top: 1030px;
+  left: 97px;
+}
+.date {
+  top: 1335px;
+  left: 295px;
+}
+.financial-goals-item {
+  position: absolute;
+  top: 393px;
+  left: 405px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-lightskyblue-100);
+  width: 263px;
+  height: 60px;
+}
+.financial-goals-inner {
+  position: absolute;
+  top: 415.5px;
+  left: 598.08px;
+  width: 26.85px;
+  height: 19.5px;
+}
+.usd {
+  top: 399px;
+  left: 388px;
+  color: var(--color-white);
+  width: 239px;
+  height: 49px;
+}
+.div65,
+.recommended,
+.usd {
+  position: absolute;
+  letter-spacing: -0.02em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.div65 {
+  top: 381px;
+  left: 634px;
+  color: var(--color-black);
+  width: 306px;
+  height: 67px;
+}
+.recommended {
+  top: 388px;
+  left: 826px;
+  font-size: var(--font-size-5xl);
+  color: #a2a2a2;
+  width: 438px;
+  height: 51px;
+}
+.financial-goals-child1 {
+  position: absolute;
+  top: 665px;
+  left: 443px;
+  background-color: var(--color-gray-900);
+  width: 729px;
+  height: 72px;
+}
+.image-54-icon {
+  position: absolute;
+  top: 682px;
+  left: 464px;
+  width: 41px;
+  height: 42px;
+  object-fit: cover;
+  mix-blend-mode: multiply;
+}
+.entity-name {
+  position: absolute;
+  top: 679px;
+  left: 612px;
+  letter-spacing: -0.02em;
+  color: var(--color-darkgray-100);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 315px;
+  height: 44px;
+}
+.financial-goals-child2 {
+  position: absolute;
+  top: 1010px;
+  left: 456px;
+  background-color: var(--color-gray-900);
+  width: 729px;
+  height: 72px;
+}
+.image-55-icon {
+  position: absolute;
+  top: 1027px;
+  left: 477px;
+  width: 41px;
+  height: 42px;
+  object-fit: cover;
+  mix-blend-mode: multiply;
+}
+.number-or-account {
+  position: absolute;
+  top: 1026px;
+  left: 578px;
+  letter-spacing: -0.02em;
+  color: var(--color-darkgray-100);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 477px;
+  height: 44px;
+}
+.financial-goals-child3 {
+  left: 464px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  width: 286px;
+  height: 43px;
+}
+.financial-goals-child3,
+.image-56-icon,
+.joe-wood {
+  position: absolute;
+  top: 737px;
+}
+.joe-wood {
+  left: 499px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: -0.02em;
+  font-weight: 600;
+  color: var(--color-steelblue-200);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 191px;
+  height: 43px;
+}
+.image-56-icon {
+  left: 711px;
+  border-radius: var(--br-xl);
+  width: 39px;
+  height: 40px;
+  object-fit: cover;
+  mix-blend-mode: multiply;
+}
+.financial-goals-child4,
+.kane-white {
+  position: absolute;
+  top: 737px;
+  height: 43px;
+}
+.financial-goals-child4 {
+  left: 808px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  width: 286px;
+}
+.kane-white {
+  left: 843px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: -0.02em;
+  font-weight: 600;
+  color: var(--color-steelblue-200);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 191px;
+}
+.financial-goals-child5,
+.image-57-icon {
+  position: absolute;
+  border-radius: var(--br-xl);
+}
+.image-57-icon {
+  top: 737px;
+  left: 1055px;
+  width: 39px;
+  height: 40px;
+  object-fit: cover;
+  mix-blend-mode: multiply;
+}
+.financial-goals-child5 {
+  top: 1084px;
+  left: 478px;
+  background-color: var(--color-gainsboro);
+  width: 400px;
+  height: 43px;
+}
+.bank-of-trust {
+  position: absolute;
+  top: 1082px;
+  left: 512px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: -0.02em;
+  font-weight: 600;
+  color: var(--color-steelblue-200);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 309px;
+  height: 43px;
+}
+.image-58-icon {
+  position: absolute;
+  top: 1082px;
+  left: 836px;
+  border-radius: var(--br-xl);
+  width: 39px;
+  height: 40px;
+  object-fit: cover;
+  mix-blend-mode: multiply;
+}
+.financial-goals-child6 {
+  position: absolute;
+  top: 1336px;
+  left: 604px;
+  background-color: var(--color-gray-800);
+  border: 1px solid #908e8e;
+  box-sizing: border-box;
+  width: 381px;
+  height: 61px;
+}
+.per-month {
+  position: absolute;
+  top: 1348px;
+  left: 645px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: -0.02em;
+  color: var(--color-black);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 233px;
+  height: 39px;
+}
+.image-72 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 21px;
+  left: 1144px;
+  width: 120px;
+  height: 98px;
+  background-image: url(./public/image69@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  mix-blend-mode: multiply;
+}
+.financial-goals {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2136px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+  color: var(--color-dimgray-100);
+  font-family: var(--font-poppins);
+}

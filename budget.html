@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="initial-scale=1, width=device-width" />
+  <link rel="stylesheet" href="./global.css" />
+  <link rel="stylesheet" href="./budget.css" />
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" />
+</head>
+
+<body>
+  <div class="budget">
+    <nav class="budget-child"></nav>
+    <img class="accounting-icon" alt="" src="./public/accounting1@2x.png" />
+
+    <div class="budget1">Budget</div>
+    <div class="budget-item"></div>
+    <div class="budget-inner"></div>
+    <div class="rectangle-div"></div>
+    <div class="budget-child1"></div>
+    <div class="budget-child2"></div>
+    <div class="budget-child3"></div>
+    <div class="budget-child4"></div>
+    <div class="budget-child5"></div>
+    <div class="budget-child6"></div>
+    <div class="budget-child7"></div>
+    <div class="budget-child8"></div>
+    <div class="budget-child9"></div>
+    <div class="summary">Summary</div>
+    <div class="total-projected-cost">Total Projected Cost</div>
+    <div class="total-actual-cost">Total Actual Cost</div>
+    <div class="total-difference">Total Difference</div>
+    <div class="div">1203$</div>
+    <div class="div1">1203$</div>
+    <div class="div2">1317$</div>
+    <div class="div3">114$</div>
+    <div class="housing">Housing</div>
+    <div class="budget-child10"></div>
+    <div class="budget-child11"></div>
+    <div class="budget-child12"></div>
+    <div class="budget-child13"></div>
+    <div class="budget-child14"></div>
+    <div class="budget-child15"></div>
+    <div class="budget-child16"></div>
+    <div class="budget-child17"></div>
+    <div class="budget-child18"></div>
+    <div class="budget-child19"></div>
+    <div class="budget-child20"></div>
+    <div class="budget-child21"></div>
+    <div class="budget-child22"></div>
+    <div class="budget-child23"></div>
+    <div class="projected-cost">Projected Cost</div>
+    <div class="actual-cost">Actual Cost</div>
+    <div class="difference">Difference</div>
+    <div class="electricity">Electricity</div>
+    <div class="div4">$1000</div>
+    <div class="div5">$1000</div>
+    <div class="div6">$0</div>
+    <div class="div7">$10</div>
+    <div class="div8">$0</div>
+    <div class="div9">$0</div>
+    <div class="div10">$2</div>
+    <div class="div11">$0</div>
+    <div class="div12">$0</div>
+    <div class="div13">$5</div>
+    <div class="div14">$114</div>
+    <div class="div15">$40</div>
+    <div class="div16">$62</div>
+    <div class="div17">$44</div>
+    <div class="div18">$20</div>
+    <div class="div19">$8</div>
+    <div class="div20">$10</div>
+    <div class="div21">$18</div>
+    <div class="div22">$1317</div>
+    <div class="div23">$50</div>
+    <div class="div24">$62</div>
+    <div class="div25">$44</div>
+    <div class="div26">$22</div>
+    <div class="div27">$8</div>
+    <div class="div28">$10</div>
+    <div class="div29">$23</div>
+    <div class="div30">$1023</div>
+    <div class="phone">Phone</div>
+    <div class="gas-water">Gas & Water</div>
+    <div class="cable">Cable</div>
+    <div class="waste-removel">Waste Removel</div>
+    <div class="maintenance">Maintenance</div>
+    <div class="supplies">Supplies</div>
+    <div class="others">Others</div>
+    <div class="total">Total</div>
+    <div class="budget-child24"></div>
+    <img class="image-46-icon" alt="" src="./public/image-46@2x.png" />
+
+    <img class="image-47-icon" alt="" src="./public/image-46@2x.png" />
+
+    <img class="image-48-icon" alt="" src="./public/image-46@2x.png" />
+
+    <img class="image-49-icon" alt="" src="./public/image-46@2x.png" />
+
+    <img class="image-50-icon" alt="" src="./public/image-46@2x.png" />
+
+    <img class="image-51-icon" alt="" src="./public/image-51@2x.png" />
+
+    <img class="image-52-icon" alt="" src="./public/image-51@2x.png" />
+
+    <img class="image-53-icon" alt="" src="./public/image-51@2x.png" />
+
+    <button class="image-70" id="image70"></button>
+  </div>
+
+  <script>
+    var image70 = document.getElementById("image70");
+    if (image70) {
+      image70.addEventListener("click", function (e) {
+        window.location.href = "./dashboard.html";
+      });
+    }
+    let totalSavings = 0;
+
+    function addExpense(amount) {
+      totalSavings -= amount;
+    }
+
+    function subtractExpense(amount) {
+      totalSavings += amount;
+    }
+
+    function showTotalSavings() {
+      console.log("Total Savings: $" + totalSavings.toFixed(2));
+    }
+
+  </script>
+</body>
+
+</html>

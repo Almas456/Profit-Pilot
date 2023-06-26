@@ -1,0 +1,685 @@
+.income-child {
+  left: 96px;
+  background-color: var(--color-lightblue);
+  width: 350px;
+}
+.income-child,
+.income-inner,
+.income-item {
+  position: absolute;
+  top: 187px;
+  border-radius: var(--br-xl);
+  height: 258px;
+}
+.income-item {
+  left: 497px;
+  background-color: var(--color-skyblue);
+  width: 310px;
+  opacity: 0.2;
+}
+.income-inner {
+  left: 858px;
+  background-color: var(--color-lightskyblue-100);
+  width: 344px;
+}
+.income-child1,
+.income-child2 {
+  position: absolute;
+  top: 547px;
+  border-radius: var(--br-3xs);
+  height: 65px;
+}
+.income-child1 {
+  left: 107px;
+  background-color: #ede8e8;
+  width: 523px;
+}
+.income-child2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-skyblue);
+  left: 657px;
+  width: 175px;
+}
+.income-child3 {
+  position: absolute;
+  top: 790px;
+  left: 43px;
+  background-color: var(--color-white);
+  width: 1194px;
+  height: 1163px;
+}
+.image-32-icon1,
+.image-33-icon,
+.image-34-icon {
+  position: absolute;
+  top: 218px;
+  left: 331px;
+  width: 75px;
+  height: 84px;
+  object-fit: cover;
+  mix-blend-mode: multiply;
+}
+.image-33-icon,
+.image-34-icon {
+  top: 239px;
+  left: 711px;
+  width: 68px;
+  height: 52px;
+}
+.image-34-icon {
+  top: 223px;
+  left: 1083px;
+  width: 91px;
+  height: 87px;
+}
+.div89,
+.div90,
+.div91 {
+  font-size: var(--font-size-13xl);
+}
+.div89 {
+  position: absolute;
+  top: 285px;
+  left: 140px;
+  letter-spacing: -0.02em;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 214px;
+  height: 93px;
+}
+.div90,
+.div91 {
+  width: 151px;
+  height: 58px;
+}
+.div90 {
+  position: absolute;
+  top: 302px;
+  left: 568px;
+  letter-spacing: -0.02em;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.div91 {
+  top: 291px;
+  left: 953px;
+}
+.div91,
+.income-details,
+.total-income,
+.transaction,
+.withdrawl {
+  position: absolute;
+  letter-spacing: -0.02em;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.withdrawl {
+  top: 373px;
+  left: 130px;
+  width: 216px;
+  height: 37px;
+}
+.income-details,
+.total-income,
+.transaction {
+  top: 371px;
+  left: 567px;
+  width: 152px;
+}
+.income-details,
+.total-income {
+  top: 349px;
+  left: 947px;
+  height: 55px;
+}
+.income-details {
+  top: 36px;
+  left: 130px;
+  font-size: var(--font-size-17xl);
+  font-weight: 800;
+  width: 422px;
+  height: 53px;
+}
+.image-35-icon {
+  position: absolute;
+  top: 556px;
+  left: 118px;
+  width: 48px;
+  height: 50px;
+  object-fit: cover;
+  mix-blend-mode: multiply;
+}
+.search {
+  top: 566px;
+  left: 166px;
+  font-weight: 500;
+  color: #8e8888;
+  width: 132px;
+  height: 30px;
+}
+.go,
+.search,
+.show-more-screening {
+  position: absolute;
+  letter-spacing: -0.02em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.go {
+  top: 562px;
+  left: 704px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  color: #727272;
+  width: 75px;
+  height: 35px;
+}
+.show-more-screening {
+  top: 569px;
+  left: 889px;
+  font-weight: 300;
+  color: #9f9f9f;
+  width: 331px;
+  height: 43px;
+}
+.income-child4,
+.polygon-icon {
+  position: absolute;
+  top: 584.5px;
+  left: 1224.88px;
+  width: 24.25px;
+  height: 16.5px;
+}
+.income-child4 {
+  top: 729px;
+  left: 43px;
+  background-color: var(--color-white);
+  width: 168px;
+  height: 61px;
+}
+.total-50 {
+  position: absolute;
+  top: 744px;
+  left: 58px;
+  letter-spacing: -0.02em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 143px;
+  height: 32px;
+}
+.income-child5,
+.income-child6 {
+  position: absolute;
+  top: 729px;
+  left: 305px;
+  background-color: var(--color-gainsboro);
+  width: 179px;
+  height: 61px;
+}
+.income-child6 {
+  left: 600px;
+}
+.auditing4,
+.setteled46 {
+  position: absolute;
+  top: 742px;
+  left: 319px;
+  letter-spacing: -0.02em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 149px;
+  height: 34px;
+}
+.setteled46 {
+  left: 614px;
+}
+.income-child7 {
+  cursor: pointer;
+  border: 3px solid #aa80f1;
+  padding: 0;
+  background-color: var(--color-gray-800);
+  position: absolute;
+  top: 723px;
+  left: 1039px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 158px;
+  height: 43px;
+}
+.export {
+  position: absolute;
+  top: 730px;
+  left: 1065px;
+  letter-spacing: -0.02em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 115px;
+  height: 29px;
+}
+.income-child8 {
+  position: absolute;
+  top: 867.75px;
+  left: 42.5px;
+  border-top: 1px solid #b8b2b2;
+  box-sizing: border-box;
+  width: 1195px;
+  height: 1px;
+}
+.amount3,
+.contact,
+.date2,
+.product,
+.status {
+  position: absolute;
+  top: 823px;
+  left: 69px;
+  letter-spacing: -0.02em;
+  color: var(--color-gray-100);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 142px;
+  height: 37px;
+}
+.amount3,
+.contact,
+.date2,
+.status {
+  left: 323px;
+}
+.amount3,
+.date2,
+.status {
+  left: 586px;
+}
+.amount3,
+.date2 {
+  left: 799px;
+}
+.date2 {
+  left: 1032px;
+}
+.income-child9 {
+  position: absolute;
+  top: 1025px;
+  left: 210px;
+  width: 860px;
+  height: 1.47px;
+}
+.income-child10,
+.income-child11,
+.income-child12,
+.income-child14 {
+  position: absolute;
+  top: 1395px;
+  left: 211px;
+  width: 860px;
+  height: 1.47px;
+}
+.income-child11,
+.income-child12,
+.income-child14 {
+  top: 1580px;
+}
+.income-child12,
+.income-child14 {
+  top: 1765px;
+}
+.income-child14 {
+  top: 1210px;
+  left: 210px;
+}
+.declined,
+.div92,
+.div93,
+.div94,
+.div95,
+.james-anderson,
+.patient-application {
+  position: absolute;
+  top: 912px;
+  left: 78px;
+  letter-spacing: -0.02em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 163px;
+  height: 49px;
+}
+.declined,
+.div92,
+.div93,
+.div94,
+.div95,
+.james-anderson {
+  top: 910px;
+  left: 312px;
+}
+.declined,
+.div92,
+.div93,
+.div94,
+.div95 {
+  top: 917px;
+  left: 600px;
+}
+.div92,
+.div93,
+.div94,
+.div95 {
+  top: 914px;
+  left: 799px;
+}
+.div93,
+.div94,
+.div95 {
+  left: 1032px;
+}
+.div94,
+.div95 {
+  top: 1091px;
+  left: 1039px;
+}
+.div95 {
+  top: 1291px;
+  left: 1032px;
+}
+.approved,
+.approved1,
+.approved2,
+.declined1,
+.declined2,
+.div100,
+.div101,
+.div102,
+.div103,
+.div96,
+.div97,
+.div98,
+.div99,
+.steve-root {
+  position: absolute;
+  top: 1461px;
+  left: 1025px;
+  letter-spacing: -0.02em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 163px;
+  height: 49px;
+}
+.approved,
+.approved1,
+.approved2,
+.declined1,
+.declined2,
+.div100,
+.div101,
+.div102,
+.div103,
+.div97,
+.div98,
+.div99,
+.steve-root {
+  top: 1644px;
+}
+.approved,
+.approved1,
+.approved2,
+.declined1,
+.declined2,
+.div100,
+.div101,
+.div102,
+.div103,
+.div98,
+.div99,
+.steve-root {
+  top: 1814px;
+}
+.approved,
+.approved1,
+.approved2,
+.declined1,
+.declined2,
+.div100,
+.div101,
+.div102,
+.div103,
+.div99,
+.steve-root {
+  top: 1096px;
+  left: 807px;
+}
+.approved,
+.approved1,
+.approved2,
+.declined1,
+.declined2,
+.div100,
+.div101,
+.div102,
+.div103,
+.steve-root {
+  top: 1293px;
+  left: 820px;
+}
+.approved,
+.approved1,
+.approved2,
+.declined1,
+.declined2,
+.div101,
+.div102,
+.div103,
+.steve-root {
+  top: 1454px;
+  left: 816px;
+}
+.approved,
+.approved1,
+.approved2,
+.declined1,
+.declined2,
+.div102,
+.div103,
+.steve-root {
+  top: 1636px;
+  left: 807px;
+}
+.approved,
+.approved1,
+.approved2,
+.declined1,
+.declined2,
+.div103,
+.steve-root {
+  top: 1806px;
+  left: 805px;
+}
+.approved,
+.approved1,
+.approved2,
+.declined1,
+.declined2,
+.steve-root {
+  top: 1096px;
+  left: 600px;
+}
+.approved1,
+.approved2,
+.declined1,
+.declined2,
+.steve-root {
+  top: 1298px;
+  left: 604px;
+}
+.approved2,
+.declined1,
+.declined2,
+.steve-root {
+  top: 1453px;
+}
+.approved2,
+.declined2,
+.steve-root {
+  top: 1650px;
+  left: 607px;
+}
+.declined2,
+.steve-root {
+  top: 1814px;
+  left: 608px;
+}
+.steve-root {
+  top: 1089px;
+  left: 313px;
+}
+.angelo-write,
+.bank-transfer,
+.fees,
+.joe-wood1,
+.kane-finn,
+.kevin-green,
+.patient-application1,
+.trademark-application,
+.trademark-application1 {
+  position: absolute;
+  top: 1300px;
+  left: 313px;
+  letter-spacing: -0.02em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 163px;
+  height: 49px;
+}
+.angelo-write,
+.bank-transfer,
+.fees,
+.joe-wood1,
+.kevin-green,
+.patient-application1,
+.trademark-application,
+.trademark-application1 {
+  top: 1463px;
+}
+.bank-transfer,
+.fees,
+.joe-wood1,
+.kevin-green,
+.patient-application1,
+.trademark-application,
+.trademark-application1 {
+  top: 1644px;
+}
+.bank-transfer,
+.fees,
+.kevin-green,
+.patient-application1,
+.trademark-application,
+.trademark-application1 {
+  top: 1808px;
+}
+.bank-transfer,
+.fees,
+.patient-application1,
+.trademark-application,
+.trademark-application1 {
+  top: 1091px;
+  left: 78px;
+}
+.bank-transfer,
+.fees,
+.patient-application1,
+.trademark-application1 {
+  top: 1300px;
+}
+.bank-transfer,
+.fees,
+.trademark-application1 {
+  top: 1461px;
+}
+.bank-transfer,
+.fees {
+  top: 1646px;
+}
+.fees {
+  top: 1816px;
+}
+.income-child15,
+.income-child16,
+.income-child17,
+.income-child18 {
+  position: absolute;
+  top: 885px;
+  left: 98px;
+  background-color: var(--color-lightcoral);
+  width: 1117px;
+  height: 129px;
+  mix-blend-mode: multiply;
+}
+.income-child16,
+.income-child17,
+.income-child18 {
+  top: 1416px;
+}
+.income-child17,
+.income-child18 {
+  top: 1782px;
+}
+.income-child18 {
+  top: 0;
+  left: 1px;
+  background-color: var(--color-lightcyan);
+  width: 1280px;
+  height: 124px;
+}
+.coin-in-hand {
+  position: absolute;
+  top: 20px;
+  left: 27px;
+  width: 69px;
+  height: 69px;
+  object-fit: cover;
+}
+.image-68 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 12px;
+  left: 1155px;
+  width: 120px;
+  height: 98px;
+  background-image: url(./public/image69@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  mix-blend-mode: multiply;
+}
+.income1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2136px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
